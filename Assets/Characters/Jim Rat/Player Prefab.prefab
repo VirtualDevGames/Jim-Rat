@@ -36,7 +36,7 @@ Transform:
   - {fileID: 2534309920078248389}
   - {fileID: 8441384541083343690}
   m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!50 &5828926710705746904
 Rigidbody2D:
@@ -171,7 +171,7 @@ GameObject:
   - component: {fileID: 1954658556905797944}
   - component: {fileID: 884067161877480488}
   m_Layer: 0
-  m_Name: Trigger box
+  m_Name: Player Manager
   m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

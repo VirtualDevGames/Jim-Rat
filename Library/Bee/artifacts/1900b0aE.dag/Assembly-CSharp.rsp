@@ -381,10 +381,16 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 "Assets/Camera.cs"
+"Assets/HealthBar.cs"
 "Assets/Input/PlayerMovement.cs"
 "Assets/Scripts/Coin.cs"
-"Assets/Scripts/Collector.cs"
+"Assets/Scripts/Enemy.cs"
+"Assets/Scripts/EnemyData.cs"
 "Assets/Scripts/ICollectable.cs"
+"Assets/Scripts/IEnemy.cs"
+"Assets/Scripts/PlayerHealth.cs"
+"Assets/Scripts/PlayerManager.cs"
+"Assets/UI.cs"
 -langversion:9.0
 
 /deterministic
