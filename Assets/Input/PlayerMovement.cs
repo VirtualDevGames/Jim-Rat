@@ -17,7 +17,6 @@ public class PlayerMovement : MonoBehaviour
 
     private bool isGrounded;
     private bool hasDoubleJump;
-    private int jumpCounter = 1;
 
     private void Start() {
         rb = GetComponent<Rigidbody2D>();
